@@ -6,7 +6,7 @@ const navLinks = [
   { id: 'education', label: 'Education' },
   { id: 'skills', label: 'Skills' },
   { id: 'projects', label: 'Projects' },
-  { id: 'certifications', label: 'Certifications' },
+  // { id: 'certifications', label: 'Certifications' },
   { id: 'experience', label: 'Experience' },
   { id: 'activities', label: 'Activities' },
   { id: 'achievements', label: 'Achievements' },

@@ -8,17 +8,27 @@
   "list": [
     {
       "id": "ach-1",
-      "category": "Awards",
-      "title": "Best Final Year Project Award",
-      "description": "Recognized for the most innovative capstone project in the Computer Science department.",
-      "date": "2026"
+      "category": "Competitions",
+      "title": "1st Runner-Up at CRE8X - UX Competition",
+      "description": "Secured 1st Runner-Up position at CRE8X - UX Competition organized by General Sir John KotelawalaDefence University (KDU).",
+      "date": "2024",
+      "images": [
+        "/images/Cre8X 1.jpeg",
+        "/images/Cre8X 2.jpeg",
+        "/images/Cre8X 3.jpeg"
+      ]
     },
     {
       "id": "ach-2",
       "category": "Competitions",
-      "title": "1st Place, University Hackathon",
-      "description": "Won first place among 40 teams for building an AI-assisted study planner.",
-      "date": "2025"
+      "title": "1st Place, FUTURUM 2024",
+      "description": "Won Champion title at FUTURUM 2024 - AI Ideathon Competition, demonstrating innovation in artificial intelligence solution design.",
+      "date": "2024",
+      "images": [
+        "/images/Futurum 1.jpeg",
+        "/images/Futurum 2.jpeg",
+        "/images/Futurum 3.jpeg"
+      ]
     },
     {
       "id": "ach-3",

@@ -32,17 +32,25 @@
     },
     {
       "id": "ach-3",
-      "category": "Scholarships",
-      "title": "Dean's List Scholarship",
-      "description": "Awarded for maintaining a GPA above 3.75 for four consecutive semesters.",
-      "date": "2024 — 2026"
+      "category": "Competitions",
+      "title": "Pearl Hack 2.0 & Pearl Hack 3.0",
+      "description": "Selected as a Finalist at Pearl Hack 2.0 and Secured 2nd Runnersup at Pearl Hack 3.0, Organized by Unversity of Sabaragamuwa.",
+      "date": "2023 & 2024",
+      "images": [
+        "/images/Pearl 1.jpeg",
+        "/images/Pearl 2.jpeg",
+        "/images/Pearl 3.jpeg"
+      ]
     },
     {
       "id": "ach-4",
-      "category": "Special recognitions",
-      "title": "Open Source Contributor Recognition",
-      "description": "Acknowledged by a major open-source project for consistent, high-quality contributions.",
-      "date": "2025"
+      "category": "Competitions",
+      "title": "Hack Like a Girl 2.0 - Finalist",
+      "description": "Achieved Finalist status at Hack Like a Girl 2.0 - Business Idea Competition, presenting an innovative startup concept.",
+      "date": "2024",
+      "images": [
+        "/images/Hack 1.jpg"
+      ]
     }
   ]
 }

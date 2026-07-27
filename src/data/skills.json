@@ -1,0 +1,30 @@
+{
+  "Programming Languages": [
+    { "name": "Python"},
+    { "name": "Java" },
+    { "name": "C"},
+    { "name": "HTML" },
+    { "name": "CSS"}
+  ],
+ 
+  "Databases & AI / Machine Learning": [
+    { "name": "MySQL"},
+    { "name": "Scikit-learn"},
+    { "name": "Numpy" },
+    { "name": "Pandas"}
+  
+  ],
+  "Tools": [
+    { "name": "Git & GitHub"},
+    { "name": "Canva"},
+    { "name": "Figma"},
+    { "name": "WordPress"}
+  ],
+
+  "Soft Skills": [
+    { "name": "Communication"},
+    { "name": "Teamwork"},
+    { "name": "Problem Solving"},
+    { "name": "Leadership"}
+  ]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "exp-1",
+    "company": "Notch Digital (Pvt) Ltd",
+    "position": "Junior Web Designer and Developer",
+    "duration": "Aug 2023 - May 2024",
+    "location": "Hatch Works - Colombo",
+    "description": "Developed and maintained client websites using WordPress, focusing on responsive design, theme customization, and improving website functionality.",
+    "highlights": [
+      "Developed and maintained WordPress websites for multiple clients",
+      "Customized themes to enhance website functionality and performance",
+      "Designed responsive layouts optimized for mobile and desktop devices"
+    ]
+  },
+  {
+    "id": "exp-2",
+    "company": "Notch Digital (Pvt) Ltd",
+    "position": "Intern Web Designer and Developer",
+    "duration": "May 2023 - Aug 2023",
+    "location": "Hatch Works - Colombo",
+    "description": "Supported website design and development tasks using WordPress and Elementor while gaining practical experience in web development and client-focused solutions.",
+    "highlights": [
+      "Assisted in designing and developing WordPress websites using Elementor page builder",
+      "Customized WordPress themes to meet client requirements",
+      "Supported responsive design implementation for mobile and desktop platforms"
+    ]
+  }
+]

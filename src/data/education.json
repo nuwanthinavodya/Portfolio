@@ -1,0 +1,34 @@
+[
+  {
+    "id": "edu-1",
+    "institution": "University of Sri Jayewardenepura",
+    "degree": "BSc(Hons) in Applied Sciences - Specialization in Mathematics",
+    "year": "2023 — 2027",
+    "description": "Specializing in Mathematics with a strong interest in software engineering, artificial intelligence, and machine learning. Coursework includes advanced mathematics, Acturial Sciences, computational methods, programming, Topology data analysis and physics. Developed practical skills through software projects, IoT applications, and AI-based solutions.",
+    "grade": "Current GPA 3.12"
+  },
+  {
+    "id": "edu-2",
+    "institution": "Technical Collage - Maradana",
+    "degree": "Engineering Draftmanship",
+    "year": "2021 — 2022",
+    "description": "Experienced in creating technical drawings, layouts, and detailed design documentation using computer-aided design (CAD) tools. Skilled in interpreting engineering concepts, preparing accurate drawings, and transforming ideas into clear visual representations.",
+    "grade": "NVQ Level 3"
+  },
+  {
+    "id": "edu-3",
+    "institution": "Gothami Balika Vidyalaya - Colombo 10",
+    "degree": "G.C.E. Advanced Level - Mathematical Stream",
+    "year": "2019 — 2021",
+    "description": "Studied Mathematics, Physics, and ICT, building a strong foundation in analytical thinking, problem-solving, programming concepts, and scientific principles. Developed an interest in technology and computational problem solving.",
+    "grade": "3C's"
+  },
+  {
+    "id": "edu-4",
+    "institution": "Gothami Balika Vidyalaya - Colombo 10",
+    "degree": "G.C.E. Ordinary Level - Mathematical Stream",
+    "year": "2013 — 2019",
+    "description": "Completed secondary education with a strong foundation in Mathematics, Science, Commerce, English, and other core subjects. Developed critical thinking, logical reasoning, and academic discipline.",
+    "grade": "6A's & 3B's"
+  }
+]

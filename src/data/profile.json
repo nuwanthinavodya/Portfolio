@@ -1,0 +1,22 @@
+{
+  "name": "Nuwanthi",
+  "titles": ["AI/ML Enthusiast", "Software Engineer", "UI/UX Designer", "WordPress Developer"],
+  "tagline": "Building intelligent, user-focused software through mathematics, AI, and modern web technologies.",
+  "shortBio": "I'm a Mathematics final year undergraduate at the University of Sri Jayewardenepura with a passion for artificial intelligence, software engineering, and creating intuitive digital experiences.",
+  "longBio": "I'm a final year undergraduate specializing in Mathematics at the University of Sri Jayewardenepura with a strong interest in software engineering, artificial intelligence, and machine learning. I enjoy developing web applications, designing user-friendly interfaces, and building practical solutions that solve real-world problems. My experience includes React, Java, Python, WordPress, and Arduino-based IoT projects. I continuously expand my knowledge through personal projects, hackathons, and university activities while striving to create clean, efficient, and impactful software.",
+  "photo": "/images/Professional Image Nuwanthi.jpeg",
+  "photoAbout": "/images/Color Profile.png",
+  "resumeUrl": "/resume.pdf",
+  "careerObjective": "Seeking an AI/ML or software engineering internship where I can apply my mathematical background, strengthen my technical skills, and contribute to building innovative, real-world solutions while fulfilling my university internship requirement.",
+  "languages": ["English", "Sinhala"],
+  "interests": ["Artificial Intelligence",
+    "Machine Learning",
+    "Software Development",
+    "UI/UX Design",
+    "Web Development",
+    "IoT Projects"],
+  "location": "Colombo, Sri Lanka",
+  "email": "emnnds@gmail.com",
+  "phone": "+94 70 1111518",
+  "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1000!2d79.8612!3d6.9271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwNTUnMzcuNiJOIDc5wrA1MSc0MC4zIkU!5e0!3m2!1sen!2slk!4v1000000000000"
+}

@@ -1,0 +1,185 @@
+[
+  {
+    "id": "proj-1",
+    "title": "Smart Plant Monitoring System",
+    "description": "An Arduino-based smart plant monitoring and automated watering system using RemoteXY. The system monitors environmental conditions and controls watering based on plant requirements.",
+    "image": "/images/IoT Project.jpeg",
+    "technologies": [
+      "Arduino",
+      "C++",
+      "RemoteXY",
+      "Sensors",
+      "IoT"
+    ],
+    "features": [
+      "Soil moisture monitoring",
+      "Automatic watering control",
+      "Temperature, humidity, and light monitoring",
+      "Mobile-based monitoring interface"
+    ],
+    "github": "https://github.com/nuwanthinavodya/Smart-Plant-Monitoring-System",
+    "demo": "",
+    "category": "IoT / Embedded Systems",
+    "featured": true
+  },
+
+  {
+    "id": "proj-2",
+    "title": "Diabetic Prediction",
+    "description": "A machine learning project that predicts diabetes risk using patient health data. Includes data preprocessing, exploratory data analysis, model training, evaluation, and visualization to build a reproducible prediction pipeline.",
+    "image": "/images/Diabetes_prediction Project.png",
+    "technologies": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "Matplotlib",
+      "Jupyter Notebook"
+    ],
+    "features": [
+      "Data preprocessing and feature analysis",
+      "Machine learning model training and evaluation",
+      "Performance visualization and result analysis"
+    ],
+    "github": "https://github.com/nuwanthinavodya/Diabetic-Prediction",
+    "demo": "",
+    "category": "AI / Machine Learning",
+    "featured": true
+  },
+
+  {
+    "id": "proj-3",
+    "title": "Foresight",
+    "description": "A mobile application designed to identify and map forest features and paths. The app focuses on providing an intuitive navigation experience while helping users explore and understand forest environments.",
+    "image": "/images/Foresight Project.png",
+    "technologies": [
+      "Figma",
+      "Mobile UI Design",
+      "UX Research",
+      "Prototyping"
+    ],
+    "features": [
+      "Forest feature mapping interface",
+      "Path identification and navigation",
+      "Mobile-first user experience",
+      "Interactive app prototype"
+    ],
+    "Prototype": "https://www.figma.com/proto/Nc8bRIXmEknpWPi7GjF47I/Round-1?node-id=39-478&node-type=canvas&t=0LmqHO1GNw9DrOrV-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=39%3A478",
+    "demo": "",
+    "category": "UI / UX Design",
+    "featured": true
+  },
+
+  {
+    "id": "proj-3",
+    "title": "Depression Risk Prediction From Lifestyle",
+    "description": "A machine learning project that explores lifestyle factors and predicts depression risk using data analysis, feature engineering, and classification techniques.",
+    "image": "/images/Depression.png",
+    "technologies": [
+      "Python",
+      "Pandas",
+      "Scikit-Learn",
+      "Machine Learning",
+      "Jupyter Notebook"
+    ],
+    "features": [
+      "Exploratory data analysis",
+      "Feature selection and engineering",
+      "Predictive model development"
+    ],
+    "github": "",
+    "demo": "",
+    "category": "AI / Machine Learning",
+    "featured": false
+  },
+
+  {
+    "id": "ux-3",
+    "title": "University Grants Commission Website Redesign",
+    "description": "A modern website redesign concept created to improve the usability, accessibility, and visual experience of the University Grants Commission website.",
+    "image": "/images/UGC Project.png",
+    "technologies": [
+      "Figma",
+      "UI Design",
+      "UX Analysis",
+      "Responsive Design"
+    ],
+    "features": [
+      "Improved information architecture",
+      "Modern responsive layouts",
+      "Enhanced navigation experience",
+      "Accessibility-focused design"
+    ],
+    "github": "",
+    "demo": "",
+    "category": "UI / UX Design",
+    "featured": false
+  },
+
+ 
+
+  {
+    "id": "proj-9",
+    "title": "To-Do List Web Application",
+    "description": "A responsive task management web application that allows users to create, update, delete, and organize daily tasks efficiently.",
+    "image": "/images/To-Do.png",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "features": [
+      "Add and manage tasks",
+      "Edit and delete functionality",
+      "Responsive user interface"
+    ],
+    "github": "https://github.com/nuwanthinavodya/To-do-List",
+    "demo": "",
+    "category": "Web Development",
+    "featured": false
+  },
+  {
+    "id": "proj-10",
+    "title": "Java Calculator Application",
+    "description": "A desktop calculator application developed using Java Swing that performs basic arithmetic operations through a graphical user interface.",
+    "image": "/images/Calculator.png",
+    "technologies": [
+      "Java",
+      "Java Swing"
+    ],
+    "features": [
+      "Graphical user interface",
+      "Basic arithmetic operations",
+      "Desktop application development"
+    ],
+    "github": "https://github.com/nuwanthinavodya/Calculator-App",
+    "demo": "",
+    "category": "Desktop Application",
+    "featured": false
+  },
+  
+  {
+    "id": "ux-5",
+    "title": "Bothal Paththare",
+    "description": "A waste management mobile application designed to encourage sustainable waste disposal practices and create a greener Sri Lanka through digital solutions.",
+    "image": "/images/Bothal Paththare Project.png",
+    "technologies": [
+      "Figma",
+      "Mobile App Design",
+      "UX Research",
+      "Prototyping"
+    ],
+    "features": [
+      "Waste collection management",
+      "Eco-friendly user experience",
+      "Mobile application workflow",
+      "Sustainability-focused design"
+    ],
+    "Prototype": "",
+    "demo": "",
+    "category": "UI / UX Design",
+    "featured": true
+  }
+  
+  
+]

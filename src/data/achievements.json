@@ -1,0 +1,38 @@
+{
+  "stats": [
+    { "id": "stat-1", "label": "Projects Completed", "value": 24, "suffix": "+" },
+    { "id": "stat-2", "label": "Certifications Earned", "value": 8, "suffix": "" },
+    { "id": "stat-3", "label": "Hackathons Attended", "value": 6, "suffix": "" },
+    { "id": "stat-4", "label": "Cups of Coffee", "value": 900, "suffix": "+" }
+  ],
+  "list": [
+    {
+      "id": "ach-1",
+      "category": "Awards",
+      "title": "Best Final Year Project Award",
+      "description": "Recognized for the most innovative capstone project in the Computer Science department.",
+      "date": "2026"
+    },
+    {
+      "id": "ach-2",
+      "category": "Competitions",
+      "title": "1st Place, University Hackathon",
+      "description": "Won first place among 40 teams for building an AI-assisted study planner.",
+      "date": "2025"
+    },
+    {
+      "id": "ach-3",
+      "category": "Scholarships",
+      "title": "Dean's List Scholarship",
+      "description": "Awarded for maintaining a GPA above 3.75 for four consecutive semesters.",
+      "date": "2024 — 2026"
+    },
+    {
+      "id": "ach-4",
+      "category": "Special recognitions",
+      "title": "Open Source Contributor Recognition",
+      "description": "Acknowledged by a major open-source project for consistent, high-quality contributions.",
+      "date": "2025"
+    }
+  ]
+}

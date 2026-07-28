@@ -10,7 +10,7 @@ const navLinks = [
   { id: 'experience', label: 'Experience' },
   { id: 'activities', label: 'Activities' },
   { id: 'achievements', label: 'Achievements' },
-  { id: 'contact', label: 'Contact' },
+  // { id: 'contact', label: 'Contact' },
 ];
 
 export default navLinks;

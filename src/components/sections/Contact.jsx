@@ -83,16 +83,16 @@ export default function Contact() {
           ))}
 
           <div className="card flex items-center gap-4 p-5">
-            <a href="https://github.com" target="_blank" rel="noreferrer" aria-label="GitHub" className="text-mist-300 hover:text-violet-400">
+            <a href="https://github.com/nuwanthinavodya" target="_blank" rel="noreferrer" aria-label="GitHub" className="text-mist-300 hover:text-violet-400">
               <FaGithub className="h-5 w-5" />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noreferrer" aria-label="LinkedIn" className="text-mist-300 hover:text-violet-400">
+            <a href="https://www.linkedin.com/in/nuwanthi-navodya-60429726a/" target="_blank" rel="noreferrer" aria-label="LinkedIn" className="text-mist-300 hover:text-violet-400">
               <FaLinkedin className="h-5 w-5" />
             </a>
             <p className="ml-auto text-xs text-mist-500">Usually replies within 24h</p>
           </div>
 
-          <div className="card overflow-hidden">
+          {/* <div className="card overflow-hidden">
             <iframe
               title="My location on Google Maps"
               src={profile.mapEmbedUrl}
@@ -100,7 +100,7 @@ export default function Contact() {
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
             />
-          </div>
+          </div> */}
         </div>
 
         <motion.form
@@ -122,7 +122,7 @@ export default function Contact() {
                 value={form.name}
                 onChange={handleChange}
                 className="w-full rounded-xl border border-ink-700 bg-ink-900 px-4 py-2.5 text-sm text-mist-100 placeholder:text-mist-700 focus:border-violet-500"
-                placeholder="Jane Doe"
+                placeholder="Your Name"
               />
             </div>
             <div>
@@ -135,7 +135,7 @@ export default function Contact() {
                 value={form.email}
                 onChange={handleChange}
                 className="w-full rounded-xl border border-ink-700 bg-ink-900 px-4 py-2.5 text-sm text-mist-100 placeholder:text-mist-700 focus:border-violet-500"
-                placeholder="jane@example.com"
+                placeholder="email@example.com"
               />
             </div>
           </div>

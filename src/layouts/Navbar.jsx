@@ -65,14 +65,14 @@ export default function Navbar() {
         </ul>
 
         <div className="hidden items-center gap-3 lg:flex">
-          <button
+          {/* <button
             type="button"
             onClick={toggleTheme}
             aria-label="Toggle light and dark mode"
             className="flex h-9 w-9 items-center justify-center rounded-full border border-ink-700 text-mist-300 transition-colors hover:border-violet-500 hover:text-violet-400"
           >
             {theme === 'dark' ? <HiOutlineSun className="h-4 w-4" /> : <HiOutlineMoon className="h-4 w-4" />}
-          </button>
+          </button> */}
           <button type="button" onClick={() => handleNavClick('contact')} className="btn-primary !px-5 !py-2.5 text-xs">
             Contact Me
           </button>
@@ -114,14 +114,14 @@ export default function Navbar() {
                 </li>
               ))}
               <li className="pt-2">
-                <button
+                {/* <button
                   type="button"
                   onClick={toggleTheme}
                   className="flex w-full items-center gap-2 rounded-lg px-3 py-2.5 text-left text-sm font-medium text-mist-300 hover:bg-ink-800"
                 >
                   {theme === 'dark' ? <HiOutlineSun className="h-4 w-4" /> : <HiOutlineMoon className="h-4 w-4" />}
                   Toggle theme
-                </button>
+                </button> */}
               </li>
             </ul>
           </motion.div>

@@ -44,10 +44,12 @@ export default function Activities() {
               <h3 className="text-base font-semibold text-mist-100">{activity.title}</h3>
               <p className="text-sm text-mist-500">{activity.organization} · {activity.date}</p>
               <p className="text-sm leading-relaxed text-mist-300">{activity.description}</p>
+              
             </RevealCard>
           );
         })}
       </div>
+      
     </section>
   );
 }

@@ -103,7 +103,7 @@ export default function Contact() {
           </div> */}
         </div>
 
-        <motion.form
+        {/* <motion.form
           onSubmit={handleSubmit}
           className="card space-y-5 p-7"
           initial={{ opacity: 0, y: 24 }}
@@ -180,7 +180,7 @@ export default function Contact() {
               Something went wrong. Please add your EmailJS keys in Contact.jsx, or email me directly at {profile.email}.
             </p>
           )}
-        </motion.form>
+        </motion.form> */}
       </div>
     </section>
   );

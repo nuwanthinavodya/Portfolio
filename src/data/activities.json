@@ -5,7 +5,12 @@
     "title": "Webmaster - IEEE Women in Engineering (WIE) Affinity Group",
     "organization": "University of Sri Jayewardenepura",
     "date": "2025 — 2026",
-    "description": "Manage and maintain digital platforms while supporting the online presence, content updates, and technical activities of the IEEE WIE Affinity Group."
+    "description": "Manage and maintain digital platforms while supporting the online presence, content updates, and technical activities of the IEEE WIE Affinity Group.",
+    "images": [
+      "/images/WIE 1.jpeg",
+      "/images/WIE 2.jpg",
+      "/images/WIE 3.jpg"
+    ]
   },
   {
     "id": "act-2",
@@ -13,7 +18,13 @@
     "title": "Head Prefect",
     "organization": "Gothami Balika Vidyalaya - Colombo",
     "date": "2020 - 2021",
-    "description": "Served as Head Prefect, demonstrating leadership, teamwork, and organizational skills while supporting school activities and student coordination."
+    "description": "Served as Head Prefect, demonstrating leadership, teamwork, and organizational skills while supporting school activities and student coordination.",
+    "images": [
+      "/images/HP 4.jpg",
+      "/images/HP 2.jpg",
+      "/images/HP 1.jpg",
+      "/images/HP 3.jpg"
+    ]
   },
   {
     "id": "act-3",
@@ -29,12 +40,7 @@
     "title": "School Handball Colors Award",
     "organization": "Gothami Balika Vidyalaya - Colombo",
     "date": "2014 - 2017",
-    "description": "Represented the school handball team and received school colors for outstanding performance and commitment in sports.",
-    "images": [
-      "/images/Pearl 1.jpeg",
-      "/images/Pearl 2.jpeg",
-      "/images/Pearl 3.jpeg"
-    ]
+    "description": "Represented the school handball team and received school colors for outstanding performance and commitment in sports."
   }
   
   
